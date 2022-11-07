@@ -11,8 +11,8 @@ This project was realized within the framework of the industrial projects of MAI
 
 The project is composed of 5 topics:
 
-- [x] Project A - Hand Gesture Realism Checker
-- [x] Project B - Hand Gesture Dimension Reduction
-- [x] Project C - Diversification of Skin Textures / Texture Merging Tool
-- [x] Project D - Data Visualizer & Analyzer for Synthetic Data
-- [x] Project E - Offsets on fingertip pairs to perfect gestures
+- [ ] Project A - Hand Gesture Realism Checker
+- [ ] Project B - Hand Gesture Dimension Reduction
+- [ ] Project C - Diversification of Skin Textures / Texture Merging Tool
+- [ ] Project D - Data Visualizer & Analyzer for Synthetic Data
+- [ ] Project E - Offsets on fingertip pairs to perfect gestures
